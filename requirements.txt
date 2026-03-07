@@ -1,0 +1,9 @@
+# Dependencias para ejecutar el notebook EDA
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+
+# Dependencias para compilar el Jupyter Book
+jupyter-book>=0.15
+jupyter>=1.0
+ipykernel>=6.0

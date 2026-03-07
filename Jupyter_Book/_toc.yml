@@ -1,0 +1,11 @@
+#######################################################################################
+# Tabla de Contenidos — EDA Stocks OHLCV
+# Formato: jb-book
+#######################################################################################
+
+format: jb-book
+root: intro
+
+chapters:
+  - file: notebooks/eda_book
+    title: "📊 EDA Completo — Stocks OHLCV"

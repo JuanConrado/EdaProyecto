@@ -1,0 +1,67 @@
+#######################################################################################
+# Configuración del Jupyter Book — EDA Stocks OHLCV
+#######################################################################################
+
+title                       : "EDA — Stocks OHLCV: Análisis Exploratorio"
+author                      : "Proyecto Machine Learning"
+logo                        : ""
+
+# Información del proyecto
+description: >
+  Análisis exploratorio de datos históricos de precios de acciones (OHLCV).
+  Incluye limpieza, QA, detección de patrones de velas y preparación para modelado.
+
+#######################################################################################
+# Configuración de ejecución
+#######################################################################################
+execute:
+  execute_notebooks         : "off"   # "off" = no re-ejecuta al buildear (usa outputs guardados)
+  # Cambia a "auto" si quieres que re-ejecute al compilar el libro
+
+#######################################################################################
+# Configuración del HTML
+#######################################################################################
+html:
+  use_issues_button         : false
+  use_repository_button     : false
+  use_edit_page_button      : false
+  navbar_number_sections    : true
+  home_page_in_navbar       : true
+
+#######################################################################################
+# Configuración del repositorio (opcional)
+#######################################################################################
+# repository:
+#   url                     : https://github.com/tu_usuario/tu_repo
+#   branch                  : main
+
+#######################################################################################
+# Lanzar / interactividad
+#######################################################################################
+launch_buttons:
+  notebook_interface        : "classic"
+  binderhub_url             : ""
+  thebe                     : false
+
+#######################################################################################
+# Parseo y extensiones Sphinx
+#######################################################################################
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - colon_fence
+    - dollarmath
+    - html_image
+    - linkify
+    - smartquotes
+    - substitution
+    - tasklist
+
+sphinx:
+  config:
+    language                : es
+    html_show_sourcelink    : false
+    html_theme_options:
+      show_navbar_depth     : 2
+      max_navbar_depth      : 4
+      show_toc_level        : 2
