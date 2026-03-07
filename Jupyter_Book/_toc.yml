@@ -7,5 +7,5 @@ format: jb-book
 root: intro
 
 chapters:
-  - file: notebooks/eda_book
+  - file: notebooks/eda_final
     title: "📊 EDA Completo — Stocks OHLCV"
