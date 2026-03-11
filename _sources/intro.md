@@ -1,7 +1,10 @@
-# 📈 EDA — Stocks OHLCV
+# EDA — Stocks OHLCV
 
-Bienvenido al libro de análisis exploratorio de datos del **Proyecto de Machine Learning sobre precios de acciones**.
-
+Libro de análisis exploratorio de datos del **Proyecto de Machine Learning sobre precios de acciones**.
+Integrantes:
+Sergio Cadavid
+Mateo Chang
+Juan Camilo Conrado
 ---
 
 ## ¿De qué trata este libro?
