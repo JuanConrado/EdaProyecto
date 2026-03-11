@@ -1,10 +1,6 @@
 # EDA — Stocks OHLCV
 
 Libro de análisis exploratorio de datos del **Proyecto de Machine Learning sobre precios de acciones**.
-Integrantes:
-Sergio Cadavid
-Mateo Chang
-Juan Camilo Conrado
 ---
 
 ## ¿De qué trata este libro?
@@ -50,3 +46,11 @@ Este libro documenta paso a paso el proceso de **Análisis Exploratorio de Datos
 Este EDA es el primer paso de un proyecto más amplio de predicción de precios
 usando patrones de velas y modelos de machine learning.
 ```
+
+## Integrantes del proyecto
+
+| Nombre | 
+|--------|
+| Juan Conrado |
+| Nombre Apellido |
+| Nombre Apellido |
