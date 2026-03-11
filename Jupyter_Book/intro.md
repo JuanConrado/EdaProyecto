@@ -52,5 +52,5 @@ usando patrones de velas y modelos de machine learning.
 | Nombre | 
 |--------|
 | Juan Conrado |
-| Nombre Apellido |
-| Nombre Apellido |
+| Mateo Chang  |
+| Sergio Cadavid |
